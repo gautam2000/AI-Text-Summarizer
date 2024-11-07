@@ -1,6 +1,5 @@
-## About this course
 
-# Project-Based Learning: AI Text Summarizer Web App
+## AI Text Summarizer Web App
 
 ![course thumbmail](public/images/learning.png)
 
