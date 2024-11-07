@@ -1,5 +1,6 @@
 
 ## AI Text Summarizer Web App
+![image](https://github.com/user-attachments/assets/2b8ce1c9-6ba1-4fb9-bac9-3d716fd1e0b1)
 
 ![image](https://github.com/user-attachments/assets/a697f97d-bef9-4a50-93d4-d6da814aa121)
 
