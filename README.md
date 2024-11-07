@@ -9,6 +9,19 @@
 - [GitHub Codespaces](https://docs.github.com/en/codespaces)
 - [The Postman AI Text Summarizer course](https://academy.postman.com/project-ai-text-summarizer)
 
+## Instructions
+To run locally, follow the instructions from the Course as linked above.
+
+If you are mostly familiar, just make the following changes:
+
+1. .env
+The project uses HuggingFace as the AI Provider. Get your token from HuggingFace
+
+Create a file .env in the root of the project (same level as index.js) and add a variable named ACCESS_TOKEN with value set to the HuggingFace API Token eg: ACCESS_TOKEN=your-token-here
+
+2. Running Locally
+npm run start - to run the Express Server listening it http://localhost:3000 npm run dev - to run with NodeMon (helpful if you want to re-run the server script on save)
+
 ## Introduction
 
 Welcome to the Project-Based Learning module focused on building an AI-powered text summarizer web app! Throughout this module, we'll walk you through the process of creating a robust text summarization application using Node.js, Replit or GitHub Codespaces, the Hugging Face Inference API, and Postman. You'll not only explore real-world APIs but also generate code and customize your app with newfound skills.
