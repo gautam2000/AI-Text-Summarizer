@@ -78,8 +78,6 @@ Upon completing this project, you can expect the following benefits:
 ### Feedback (optional)
 - Provide optional feedback
 
-**Author:** @genie360s
-
 ----
 **Project Motivation**
 - Created this project , since Replit has recently shutdown an alternative to Replit is GitHub CodeSpaces. Contributions are welcomed.
