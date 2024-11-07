@@ -1,7 +1,7 @@
 
 ## AI Text Summarizer Web App
 
-![course thumbmail](public/images/learning.png)
+![image](https://github.com/user-attachments/assets/a697f97d-bef9-4a50-93d4-d6da814aa121)
 
 ## Pre-requisite resources
 - [Postman](https://www.postman.com/)
